@@ -9,6 +9,7 @@ function happyNewYear() {
     counter--;
   }
   console.log("Happy New Year!");
+  
 }
 
 /* 
